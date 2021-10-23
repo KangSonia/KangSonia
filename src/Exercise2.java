@@ -17,7 +17,7 @@ import java.util.Scanner;
         System.out.println();
         System.out.println("The total sum of all the array inputs is "+sum+".");
 
-
+g
     }
 
     }
